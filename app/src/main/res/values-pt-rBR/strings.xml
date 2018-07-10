@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">"Gerenciamento de Armazenamento Doméstico "</string>
+    <string name="action_settings">Configuração</string>
+    <string name="navigation_drawer_open">"Abra a gaveta de navegação "</string>
+    <string name="navigation_drawer_close">"Fechar gaveta de navegação "</string>
+</resources>
